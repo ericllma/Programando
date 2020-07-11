@@ -1,4 +1,4 @@
-# Minha jornada na programação
+# Minha jornada em programação
 ![](image.jpg)
 
 ## Sobre:
