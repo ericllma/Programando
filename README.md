@@ -1,5 +1,5 @@
 # Minha jornada como DEV (VEJA MINHAS PÁGINAS NO WIKI)
-[](https://github.com/ericllma/Programando/wiki)
+[Meu WiKI](https://github.com/ericllma/Programando/wiki)
 ![](image.jpg)
 
 ## Sobre:
