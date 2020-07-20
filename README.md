@@ -1,4 +1,4 @@
-# Minha jornada como DEV
+# Minha jornada como DEV (VEJA MINHAS PÁGINAS NO WIKI)
 ![](image.jpg)
 
 ## Sobre:
